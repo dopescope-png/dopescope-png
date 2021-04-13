@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @dopescope-png
+- 👀 I’m interested in GPUS
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on GPU Buy Bot
+- 📫 How to reach me nerdsandsoda@gmail.com
